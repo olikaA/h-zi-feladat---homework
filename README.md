@@ -15,6 +15,9 @@ Both separated solution has it's own (README - HUN or ENG). Please read it all, 
 It's important to note that the description wasn't created of the reason "derogatory". Only, because of avoiding any kind of misunderstanding and 
 to make the file's opening method easier and faster.
 
+Unfortunately, because of certain reasons (for example: 2 methods of completing tasks, my own software's developing) and, because I've noticed late that I've to make commits,
+I've run out of time and I haven't done any commits. I'm ashamed, but if an interview might take place, I would explain the changes!
+
 I wish you a happy fix!
 
 Oliver

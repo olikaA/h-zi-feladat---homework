@@ -14,6 +14,9 @@ Kérem mindkét feladathoz tartozó OLVASSEL/README fájlt olvassa el, mivel a m
 
 Fontos leszögeznem, hogy a leírás nem "lenéző" jellegel jött létre, hanem minden fajta félreértés elkerülése érdekében, valamint a könnyebb, gyorsabb elérhetőség végett.
 
+!! Sajnos bizonyos okok miatt (pl. két fajta megoldási mód, saját programok fejlesztése), és mivel későn vettem észre, hogy leírást kell adni,
+kifutottam az időből és nem készültek leírások a változtatásokkal kapcsolatban. Emiatt szégyellem magam, de ha esetleg interjúra kerülne sor, szívesen elmondom!
+
 
 Örömteli javítást kívánok!
 
